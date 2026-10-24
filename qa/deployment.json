@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/moses-mediator-20261024-v1-GTser/index.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/moses-mediator-20261024-v1-GTser/apostles.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/moses-mediator-20261024-v1-GTser/nicene.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/moses-mediator-20261024-v1-GTser/athanasian.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/moses-mediator-20261024-v1-GTser/style.css",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://08-ser-gt-je-personal-20261003.github.io/moses-mediator-20261024-v1-GTser/app.js",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://moses-mediator-20261024-v1-gtser.surge.sh/index.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://moses-mediator-20261024-v1-gtser.surge.sh/apostles.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://moses-mediator-20261024-v1-gtser.surge.sh/nicene.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://moses-mediator-20261024-v1-gtser.surge.sh/athanasian.html",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://moses-mediator-20261024-v1-gtser.surge.sh/style.css",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  },
+  {
+    "url": "https://moses-mediator-20261024-v1-gtser.surge.sh/app.js",
+    "status": 200,
+    "matches_local": true,
+    "comparison": "UTF-8 text; platform newline differences normalized"
+  }
+]

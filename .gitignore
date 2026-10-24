@@ -1,5 +1,6 @@
 __pycache__/
 qa/*.png
+qa/*.jpg
 .env*
 node_modules/
 *.log
