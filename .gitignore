@@ -3,3 +3,4 @@ qa/*.png
 .env*
 node_modules/
 *.log
+dist/CNAME
