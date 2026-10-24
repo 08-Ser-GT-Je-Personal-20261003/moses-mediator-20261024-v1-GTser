@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-24",
+  "pages": [
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed",
+      "status": 200,
+      "response_sha256": "616a4f67f21a34eecad1ec71f4e8710dba2a0b185313a722d218c29bda545608",
+      "exact_quote_verified": true,
+      "quote": "我信神，全能的父，创造天地的主。"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed",
+      "status": 200,
+      "response_sha256": "d4411c360d6c664f9ae0627eb93c3278609040bdc27bb638e7d9bdfc7a6b04f4",
+      "exact_quote_verified": true,
+      "quote": "受生却非被造，与父同质；万物都是藉着他造的。"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/creeds/athanasian-creed",
+      "status": 200,
+      "response_sha256": "615f3baac889b0ba50e520f4ad4b91a1293e6643f81a7d1297b3461e2f384439",
+      "exact_quote_verified": true,
+      "quote": "其位格不紊，其本质不分"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-5",
+      "status": 200,
+      "response_sha256": "d0ce7bd9a8d1ed14535d63383ee2812e483e265ac57a39ce3c1667733afa8700"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-6",
+      "status": 200,
+      "response_sha256": "7165d9a16c03266a7ea7c7ad1e8758132c7285c441a34c1b425a52731b35433e"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/21",
+      "status": 200,
+      "response_sha256": "2862f605b7289c4218bda019afb78bb04bc4fa9a9c832f513bb2dc0be44a8d6c"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/26",
+      "status": 200,
+      "response_sha256": "001360c8a723d01cc7de6e2f471940c435f42c9bd2a5e9f28146a0291e081fd4"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/3",
+      "status": 200,
+      "response_sha256": "2dcf6078f8de81279ebfdb946f66fa0bacbfcde2f9a04985d828575c00fb59b8"
+    },
+    {
+      "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/8",
+      "status": 200,
+      "response_sha256": "7865e55a3819f3f5d734dafe7db29a2df7a508e425fcd7c7d2ea99fe15398bc0"
+    }
+  ]
+}

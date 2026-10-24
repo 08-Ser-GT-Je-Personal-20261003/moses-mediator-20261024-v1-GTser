@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-24",
+  "static_validation": "PASS: four HTML pages; internal links and unique anchors; 12 discussions; three sermon points",
+  "browser": "Codex in-app browser, inspected with screenshots and DOM checks",
+  "viewports": [
+    {"width": 320, "horizontal_overflow": false, "chapters": 15, "missing_anchors": 0},
+    {"width": 390, "horizontal_overflow": false, "chapters": 15, "missing_anchors": 0},
+    {"width": 768, "horizontal_overflow": false, "chapters": 15, "missing_anchors": 0},
+    {"width": 1440, "horizontal_overflow": false, "chapters": 15, "missing_anchors": 0}
+  ],
+  "interactions": {"toc_open_close": "PASS", "toc_links": 15, "expand_all_answers": 12, "memory_card_reveal": "PASS", "theme_toggle": "PASS", "independent_creed_guide": "PASS"},
+  "visual_review": "Desktop and mobile hero inspected. Mobile mountain spacing increased after first review. Long table overflow is contained within table wrapper.",
+  "limits": ["Device speech depends on installed voices; audio was not listened to.", "Print styles included; physical print output not tested.", "Full CCI Chinese creed and confession texts not republished pending authorization."]
+}
